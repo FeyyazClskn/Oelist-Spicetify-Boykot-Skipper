@@ -1,0 +1,241 @@
+OELIST SPICETIFY BOYKOT SKIPPER
+KURULUM REHBERİ
+===============================
+
+Bu dosya, GitHub'dan projeyi indiren kullanıcıların hızlıca kurulum yapabilmesi için hazırlanmıştır.
+
+ÖNEMLİ
+------
+Spicetify'ı bu ZIP'in içinden kurmayın.
+
+Önce Spicetify'ı kendi RESMİ internet sitesindeki güncel kurulum talimatlarından kurun:
+
+Resmi site:
+https://spicetify.app/
+
+Resmi kurulum sayfası:
+https://spicetify.app/docs/getting-started
+
+Spicetify'ın resmi dokümantasyonu Windows, Linux ve macOS kurulumlarını ayrı ayrı anlatmaktadır.
+Güncel komutlar değişebileceği için resmi sayfadaki talimatları esas alın.
+
+
+==================================================
+1. SPICETIFY'I KUR
+==================================================
+
+WINDOWS
+-------
+
+PowerShell açın.
+
+Resmi kurulum komutu:
+
+iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+
+Alternatif olarak resmi dokümantasyondaki Winget yöntemi:
+
+winget install Spicetify.Spicetify
+
+Kurulumun başarılı olduğunu kontrol edin:
+
+spicetify --version
+
+
+LINUX
+-----
+
+Terminal açın:
+
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+
+Sonra:
+
+spicetify --version
+
+
+macOS
+-----
+
+Terminal açın:
+
+curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh
+
+veya Homebrew:
+
+brew install spicetify-cli
+
+Sonra:
+
+spicetify --version
+
+
+==================================================
+2. SPOTIFY'I HAZIRLA
+==================================================
+
+Spotify Desktop'ı açın ve hesabınıza giriş yapın.
+
+Yeni bir Spotify kurulumuysa Spicetify'ı ilk kez çalıştırmadan önce Spotify'ı
+yaklaşık 60 saniye açık bırakın. Bu, Spotify'ın gerekli dosyaları oluşturmasına
+olanak sağlar.
+
+
+==================================================
+3. SPICETIFY'I İLK KEZ UYGULA
+==================================================
+
+Terminal / PowerShell:
+
+spicetify backup apply
+
+Gerekirse:
+
+spicetify restore backup apply
+
+
+==================================================
+4. BOYKOT SKIPPER'I KUR
+==================================================
+
+GitHub repository'sinden indirdiğiniz ZIP'i çıkartın.
+
+Şu dosyayı bulun:
+
+boykot-skipper.js
+
+
+WINDOWS
+-------
+
+Dosyayı:
+
+%appdata%\spicetify\Extensions\
+
+klasörüne koyun.
+
+
+LINUX / macOS
+-------------
+
+Dosyayı:
+
+~/.config/spicetify/Extensions/
+
+klasörüne koyun.
+
+
+Spicetify klasörünüzün yerini öğrenmek için:
+
+spicetify config-dir
+
+
+==================================================
+5. EXTENSION'I AKTİF ET
+==================================================
+
+Terminal / PowerShell:
+
+spicetify config extensions boykot-skipper.js
+
+Sonra:
+
+spicetify apply
+
+
+==================================================
+6. TEST ET
+==================================================
+
+Spotify'ı tamamen kapatıp yeniden açın.
+
+Boykot listesindeki bir sanatçı çalmaya başladığında extension sanatçıyı
+kontrol eder ve eşleşme varsa şarkıyı otomatik olarak atlar.
+
+Aynı sanatçı daha sonra tekrar gelirse tekrar kontrol edilir ve tekrar atlanır.
+
+
+==================================================
+7. KENDİ SANATÇINI EKLE
+==================================================
+
+boykot-skipper.js dosyasını bir metin editörüyle açın.
+
+Şu bölümü bulun:
+
+const CUSTOM_BOYKOT = [
+  "Ahmet Kaya",
+];
+
+Buraya istediğiniz isimleri ekleyebilirsiniz:
+
+const CUSTOM_BOYKOT = [
+  "Ahmet Kaya",
+  "Sanatçı 2",
+  "Sanatçı 3",
+];
+
+Kaydedin ve tekrar:
+
+spicetify apply
+
+
+==================================================
+8. SPOTIFY GÜNCELLENİRSE
+==================================================
+
+Spotify güncellendikten sonra Spicetify tekrar uygulanabilir:
+
+spicetify backup apply
+
+Çalışmazsa:
+
+spicetify update
+
+Gerekirse:
+
+spicetify restore backup apply
+
+Yeni Spotify sürümü henüz Spicetify tarafından desteklenmiyorsa uyumluluk
+güncellemesini beklemek gerekebilir.
+
+
+==================================================
+9. EXTENSION'I KALDIR
+==================================================
+
+Extension'ı devre dışı bırakmak için:
+
+spicetify config extensions boykot-skipper.js-
+
+Sonra:
+
+spicetify apply
+
+
+==================================================
+10. DAHA DETAYLI KURULUM
+==================================================
+
+Windows, Linux ve macOS için ayrıntılı kurulum, sorun giderme ve açıklamalar
+README.md dosyasında bulunmaktadır.
+
+README.md:
+- Spicetify resmi kurulum bağlantıları
+- Windows kurulumu
+- Linux kurulumu
+- macOS kurulumu
+- Extension kurulumu
+- Kişisel boykot listesi
+- Güncelleme
+- Sorun giderme
+- Kaldırma
+
+Resmi Spicetify:
+https://spicetify.app/
+
+Resmi kurulum:
+https://spicetify.app/docs/getting-started
+
+Resmi extension dokümantasyonu:
+https://spicetify.app/docs/customization/extensions

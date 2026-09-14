@@ -1,0 +1,4035 @@
+{
+  "source": "Oelist",
+  "source_export_date": "2026-09-14",
+  "spotify_records_used": 144,
+  "artists": [
+    "Abidin Biter",
+    "Ahmet Aslan",
+    "Ajda Pekkan",
+    "Ali Ekber Eren",
+    "Alişan (Serkan Burak Tektaş)",
+    "Aram Serhad",
+    "Arzu Şahin",
+    "Ati242 (Atilla Serin)",
+    "Aylin Aslım",
+    "Aynur Doğan",
+    "Ayşegül Aldinç",
+    "Azad Bedran",
+    "Bajar",
+    "Banu (Banu Kırbağ)",
+    "Belkıs Akkale",
+    "Bengü Beker",
+    "Berkay Şahin",
+    "Bilal Hancı (Kafalar)",
+    "Blok3 (Hakan Aydın)",
+    "Burak Gürpınar (stickduster)",
+    "Bülent Ortaçgil",
+    "Büyük Ev Ablukada",
+    "Cahit Berkay",
+    "Can Bonomo",
+    "Cem Adrian",
+    "Ceylan Ertem",
+    "Ceza (Bilgin Özçalkan)",
+    "Demet Sağıroğlu",
+    "Derya Köroğlu",
+    "Dodan Mir",
+    "Doğan Duru (Redd)",
+    "Edip Akbayram",
+    "Emrah Anul",
+    "Emre Altuğ",
+    "Ender Balkır",
+    "Engin Nurşani",
+    "Erdal Erzincan",
+    "Erdoğan Emir",
+    "Eren Boz",
+    "Erol Evgin",
+    "Ezginin Günlüğü",
+    "Ezhel (Ömer Sercan İpekçioğlu)",
+    "Fazıl Say",
+    "Ferhat Tunç",
+    "Feridun Düzağaç",
+    "Fuat Saka",
+    "Gaye Su Akyol",
+    "Gazapizm (Anıl Murat Acar)",
+    "Gece Yolcuları",
+    "Gripin",
+    "Grup Vitamin",
+    "Grup Yorum",
+    "Gülben Ergen",
+    "Gülten Kaya",
+    "Güneş Duru",
+    "Hakan Vreskala",
+    "Hakan Yeşilyurt",
+    "Halil Sezai",
+    "Halit Bilgiç",
+    "Haluk Levent",
+    "Haluk Tolga İlhan",
+    "Hande Mehan",
+    "Harun Tekin",
+    "Hayki (Ragıp Aytuğ Tunal)",
+    "Hayko Cepkin",
+    "Heijan (Doğan Tarda)",
+    "Hidra (Fatih Uslu)",
+    "Hozan Dino (Yusuf Şahin)",
+    "Hüseyin Turan",
+    "Kalan Müzik",
+    "Kalben (Kalben Sağdıç)",
+    "Kardeş Türküler",
+    "Kerem Kabadayı",
+    "Kutsi (Ahmet Kutsi Karadoğan)",
+    "Küçük İskender",
+    "Kıvırcık Ali (Ali Özütemiz)",
+    "Latif Doğan",
+    "Leman Sam",
+    "Levent Yüksel",
+    "Mabel Matiz",
+    "Mahsun Kırmızıgül",
+    "Mehmet Erdem",
+    "Melek Mosso",
+    "Mem Ararat",
+    "Mengene",
+    "Mikail Aslan",
+    "Mor ve Ötesi",
+    "Moğollar",
+    "Muhlis Berberoğlu",
+    "Mustafa Özarslan",
+    "Nazan Öncel",
+    "Naşide Göktürk",
+    "Nez (Nezihe Kalkan)",
+    "Nihat Doğan",
+    "Niran Ünsal",
+    "Niyazi Koyuncu",
+    "No1 (Can Bozok)",
+    "Onur Akın",
+    "Orhan Gencebay",
+    "Ozbi (Onur Dursun)",
+    "Oğuz Aksaç",
+    "Paptircem (Sena Gül)",
+    "Pervin Chakar",
+    "Pınar Aydınlar",
+    "Redd",
+    "Rojbin Kızıl",
+    "Rojda Şenses",
+    "Sabahat Akkiraz",
+    "Sagopa Kajmer (Yunus Özyavuz)",
+    "Saian (Necati Güney Erkurt)",
+    "Sansar Salvo",
+    "Seda Sayan",
+    "Selda Bağcan",
+    "Sertab Erener",
+    "Servet Kocakaya",
+    "Sezen Aksu",
+    "Suavi (Mehmet Suavi Saygan)",
+    "System of a Down",
+    "Sümer Ezgü",
+    "Sıla ( Sıla Gençoğlu)",
+    "Teoman (Teoman Yakupoğlu)",
+    "Tolga Sağ",
+    "Tülay Maciran",
+    "Uzi (Utku Cihan Yalçınkaya)",
+    "Xece",
+    "Xecê Herdem",
+    "Yahya Babuz",
+    "Yasemin Göksu",
+    "Yavuz Bingöl",
+    "Yaşar Kurt",
+    "Yıldız Tilbe",
+    "Zuhal Olcay",
+    "Zülfü Livaneli",
+    "Öykü Gürman",
+    "Ümit Yılmaz",
+    "İbrahim Tatlıses",
+    "İlkay Akkaya",
+    "Şahe Bedo (Şahin Güneş)",
+    "Şanışer (Sarp Palaur)",
+    "Şebnem Ferah",
+    "Şevval Sam",
+    "Şivan Perwer",
+    "Şiyar Berwari",
+    "Şükriye Tutkun"
+  ],
+  "records": [
+    {
+      "id": "e54c9f64-bac0-4476-843e-dc125a833e88",
+      "display_name": "Abidin Biter",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.436Z",
+      "updated_at": "2026-09-14T13:28:24.436Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "69d7bd8c-570f-44e0-9d65-7535bb1dab48",
+      "display_name": "Ahmet Aslan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Tunceli İsyanı Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.889Z",
+      "updated_at": "2026-09-14T13:28:23.889Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "cedee390-42f2-4f54-9514-bde846042cad",
+      "display_name": "Ajda Pekkan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.509Z",
+      "updated_at": "2026-09-14T13:28:22.509Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "03415ca5-f9cc-41cd-bcf8-bac641e3c104",
+      "display_name": "Ali Ekber Eren",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.504Z",
+      "updated_at": "2026-09-14T13:28:24.504Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "1f6233d0-2e6a-4cd1-89c2-e1e829cbec1b",
+      "display_name": "Alişan (Serkan Burak Tektaş)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.855Z",
+      "updated_at": "2026-09-14T13:28:25.855Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "0d7f5562-7466-4b7a-b5fb-4feed889e943",
+      "display_name": "Aram Serhad",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.350Z",
+      "updated_at": "2026-09-14T13:28:24.350Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "fe9ab8f3-9360-4065-ae82-f74f81073d4a",
+      "display_name": "Arzu Şahin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.444Z",
+      "updated_at": "2026-09-14T13:28:24.444Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "e7edf626-d6ec-4d61-b63b-5471f8e34f58",
+      "display_name": "Ati242 (Atilla Serin)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.739Z",
+      "updated_at": "2026-09-14T13:28:22.739Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "05cbda11-b757-43ca-a9e0-ecd946067f30",
+      "display_name": "Aylin Aslım",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:22.841Z",
+      "updated_at": "2026-09-14T13:28:22.841Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "bc7069c6-572e-48d0-875e-c1bbd513ce73",
+      "display_name": "Aynur Doğan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Öcalan Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:22.792Z",
+      "updated_at": "2026-09-14T13:28:22.792Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "a1ee2fc4-05bc-449c-87fd-86b5970b8545",
+      "display_name": "Ayşegül Aldinç",
+      "notes": null,
+      "tags": [
+        "Oyuncu"
+      ],
+      "topics": [
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:25.752Z",
+      "updated_at": "2026-09-14T13:28:25.752Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "bbc8b459-133c-456d-b3b5-0b769a236c94",
+      "display_name": "Azad Bedran",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.365Z",
+      "updated_at": "2026-09-14T13:28:23.365Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "3a5e857c-73c3-4d56-88fe-e5e66fa27af4",
+      "display_name": "Bajar",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.105Z",
+      "updated_at": "2026-09-14T13:28:24.105Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "a9d11e80-217d-49a3-ba5b-32a1a75ed8da",
+      "display_name": "Banu (Banu Kırbağ)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.814Z",
+      "updated_at": "2026-09-14T13:28:25.814Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "7c8ab05a-2bdd-49fc-9b71-50bd498489a3",
+      "display_name": "Belkıs Akkale",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:25.990Z",
+      "updated_at": "2026-09-14T13:28:25.990Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "7281f9f2-e9bc-486b-b92a-003cb53eb974",
+      "display_name": "Bengü Beker",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.879Z",
+      "updated_at": "2026-09-14T13:28:23.879Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "4fc0d3cb-75db-42c7-b390-2f33c502397c",
+      "display_name": "Berkay Şahin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.764Z",
+      "updated_at": "2026-09-14T13:28:23.764Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "f8ca8cca-ab03-45bf-bf76-7349d8f25b30",
+      "display_name": "Bilal Hancı (Kafalar)",
+      "notes": null,
+      "tags": [
+        "Influencer"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.660Z",
+      "updated_at": "2026-09-14T13:28:24.660Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "f8ca0c67-6b08-48bb-ad90-db10dbe4d9d5",
+      "display_name": "Blok3 (Hakan Aydın)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.724Z",
+      "updated_at": "2026-09-14T13:28:22.724Z",
+      "summary": {
+        "tiktok": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 5
+    },
+    {
+      "id": "350c38a8-b8b3-41dc-b15a-940e56ad97e6",
+      "display_name": "Burak Gürpınar (stickduster)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.296Z",
+      "updated_at": "2026-09-14T13:28:24.296Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "39f303d3-741f-4560-9548-903cc9a36116",
+      "display_name": "Bülent Ortaçgil",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.111Z",
+      "updated_at": "2026-09-14T13:28:24.111Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "048ee752-403f-4968-a054-506b8c4d7ec0",
+      "display_name": "Büyük Ev Ablukada",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.120Z",
+      "updated_at": "2026-09-14T13:28:24.120Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "7e31afbc-225d-4552-870b-0188ef183b25",
+      "display_name": "Cahit Berkay",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:25.982Z",
+      "updated_at": "2026-09-14T13:28:25.982Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "e18ec8f2-32f0-4cda-b0bb-c3f2f2cae64f",
+      "display_name": "Can Bonomo",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.673Z",
+      "updated_at": "2026-09-14T13:28:22.673Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "5efe6403-e139-4a27-919c-a78cb3120f61",
+      "display_name": "Cem Adrian",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.130Z",
+      "updated_at": "2026-09-14T13:28:24.130Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "9e68ee70-6a98-4d0d-93bd-ac877256acdb",
+      "display_name": "Ceylan Ertem",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.865Z",
+      "updated_at": "2026-09-14T13:28:22.865Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "77c32611-7cf0-4035-9f92-9f7d747bcc8f",
+      "display_name": "Ceza (Bilgin Özçalkan)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.225Z",
+      "updated_at": "2026-09-14T13:28:24.225Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "e205afd1-151d-4d9e-87f8-bc739d43512c",
+      "display_name": "Demet Sağıroğlu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.250Z",
+      "updated_at": "2026-09-14T13:28:23.250Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "6af1e063-5a1f-4778-85e2-3dd56490b55c",
+      "display_name": "Derya Köroğlu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.869Z",
+      "updated_at": "2026-09-14T13:28:23.869Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "0f9dceb4-2416-4421-bedc-fa279d21c7a8",
+      "display_name": "Dodan Mir",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Şeyh Sait Güzellemesi",
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.074Z",
+      "updated_at": "2026-09-14T13:28:24.074Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "67987d83-f27b-452c-9a2d-a0b9a98846de",
+      "display_name": "Doğan Duru (Redd)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Selahattin Demirtaş Hk."
+      ],
+      "created_at": "2026-09-14T13:28:23.084Z",
+      "updated_at": "2026-09-14T13:28:23.084Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "a33cd1ce-8c72-4c22-8e38-1907457b3c35",
+      "display_name": "Edip Akbayram",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:25.962Z",
+      "updated_at": "2026-09-14T13:28:25.962Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "eb169fd6-7e02-4752-94d0-c73c61f0e663",
+      "display_name": "Emrah Anul",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.640Z",
+      "updated_at": "2026-09-14T13:28:25.640Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "c08d8762-6c7e-4c59-b33b-dbf45401245c",
+      "display_name": "Emre Altuğ",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.136Z",
+      "updated_at": "2026-09-14T13:28:23.136Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "96683074-30ed-484a-81d2-68968f305cf1",
+      "display_name": "Ender Balkır",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.272Z",
+      "updated_at": "2026-09-14T13:28:24.272Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "26bce9d2-4233-421c-a869-81cec199cba9",
+      "display_name": "Engin Nurşani",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Kürdistan Hk."
+      ],
+      "created_at": "2026-09-14T13:28:26.137Z",
+      "updated_at": "2026-09-14T13:28:26.137Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "1f3fdc15-96a6-4ae6-ac1c-60e643408384",
+      "display_name": "Erdal Erzincan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.258Z",
+      "updated_at": "2026-09-14T13:28:24.258Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "0e3bea34-f0b2-4538-90b9-47f94b7653a8",
+      "display_name": "Erdoğan Emir",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Tunceli İsyanı Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.278Z",
+      "updated_at": "2026-09-14T13:28:24.278Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "29d612f0-7732-44c6-b620-2c513c29fd9c",
+      "display_name": "Eren Boz",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.130Z",
+      "updated_at": "2026-09-14T13:28:23.130Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "a5df1529-75bc-445a-8b9f-af2d1b486400",
+      "display_name": "Erol Evgin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.858Z",
+      "updated_at": "2026-09-14T13:28:23.858Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "fcb5a24f-464a-43c7-a392-44b25e5d6299",
+      "display_name": "Ezginin Günlüğü",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.382Z",
+      "updated_at": "2026-09-14T13:28:24.382Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "07d719b2-37c1-4ebd-9140-5ab4b8416e83",
+      "display_name": "Ezhel (Ömer Sercan İpekçioğlu)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Amedspor Paylaşımı",
+        "Hendek Operasyonları"
+      ],
+      "created_at": "2026-09-14T13:28:22.540Z",
+      "updated_at": "2026-09-14T13:28:22.540Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "3d887755-b926-4af3-b29f-919d062dfe4a",
+      "display_name": "Fazıl Say",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.634Z",
+      "updated_at": "2026-09-14T13:28:23.634Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "bb4e4e87-e653-471c-a2c5-d9b591bca034",
+      "display_name": "Ferhat Tunç",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ermeni Tehciri Hakkında",
+        "DEM Parti Hk.",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:23.657Z",
+      "updated_at": "2026-09-14T13:28:23.657Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "c61b0d6d-ea86-4ed9-9a0a-0e7e51da6bc2",
+      "display_name": "Feridun Düzağaç",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.807Z",
+      "updated_at": "2026-09-14T13:28:25.807Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "f8b01e04-25d4-4353-8ce7-89af65dd3642",
+      "display_name": "Fuat Saka",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.401Z",
+      "updated_at": "2026-09-14T13:28:24.401Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "619108cf-d8ad-4ae4-9143-3c912952142f",
+      "display_name": "Gaye Su Akyol",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.824Z",
+      "updated_at": "2026-09-14T13:28:22.824Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "90692973-0527-44a8-a808-9504a1252028",
+      "display_name": "Gazapizm (Anıl Murat Acar)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.569Z",
+      "updated_at": "2026-09-14T13:28:25.569Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "53a074a7-c1ef-49e1-aa98-ea1d01d19736",
+      "display_name": "Gece Yolcuları",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.148Z",
+      "updated_at": "2026-09-14T13:28:24.148Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "6d19a51f-10a7-4856-83a9-f9f1ae7ef57b",
+      "display_name": "Gripin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.139Z",
+      "updated_at": "2026-09-14T13:28:24.139Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "5d4b7fd8-5c40-4c49-888d-3bd4e8683450",
+      "display_name": "Grup Vitamin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.644Z",
+      "updated_at": "2026-09-14T13:28:25.644Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "2db49b22-26e4-405e-9377-715cdc4238e3",
+      "display_name": "Grup Yorum",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.597Z",
+      "updated_at": "2026-09-14T13:28:23.597Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "6209d183-f26e-4fb5-8767-6da62c81da9a",
+      "display_name": "Gülben Ergen",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.303Z",
+      "updated_at": "2026-09-14T13:28:24.303Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "689263e1-3b2d-4bd3-8a79-712277e60cbc",
+      "display_name": "Gülten Kaya",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "DEM Parti Hk.",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:23.676Z",
+      "updated_at": "2026-09-14T13:28:23.676Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "5477b008-a3dc-474e-847f-f9e9e1e75807",
+      "display_name": "Güneş Duru",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.046Z",
+      "updated_at": "2026-09-14T13:28:24.046Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "f18f2aa0-05da-49fe-8bab-423d09d55070",
+      "display_name": "Hakan Vreskala",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.174Z",
+      "updated_at": "2026-09-14T13:28:24.174Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "d77a293d-fc4b-47de-9b0a-f6b258958d97",
+      "display_name": "Hakan Yeşilyurt",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "DEM Parti Hk."
+      ],
+      "created_at": "2026-09-14T13:28:25.938Z",
+      "updated_at": "2026-09-14T13:28:25.938Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "b572e792-ae5e-480d-912e-d9d396f83bb4",
+      "display_name": "Halil Sezai",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.162Z",
+      "updated_at": "2026-09-14T13:28:24.162Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "9c7248ac-fb96-42a0-8d97-f66359ccd528",
+      "display_name": "Halit Bilgiç",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.382Z",
+      "updated_at": "2026-09-14T13:28:25.382Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "1085adc8-94ce-41e1-aedb-39c6840569be",
+      "display_name": "Haluk Levent",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Tunceli İsyanı Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.646Z",
+      "updated_at": "2026-09-14T13:28:22.646Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "5b7ddb76-e219-4adb-8ad8-19959181e9ed",
+      "display_name": "Haluk Tolga İlhan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.287Z",
+      "updated_at": "2026-09-14T13:28:24.287Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "501108ac-5bf4-45be-b290-df3976a5f15b",
+      "display_name": "Hande Mehan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.519Z",
+      "updated_at": "2026-09-14T13:28:24.519Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "64bd62ac-012c-45c1-af75-1517aea0c0a5",
+      "display_name": "Harun Tekin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.178Z",
+      "updated_at": "2026-09-14T13:28:23.178Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "688550ca-d8ca-436d-ba02-84ad5a092d4c",
+      "display_name": "Hayki (Ragıp Aytuğ Tunal)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.620Z",
+      "updated_at": "2026-09-14T13:28:25.620Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "dcb5dcba-02b1-4ee3-a164-0dd052c2e5ab",
+      "display_name": "Hayko Cepkin",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.269Z",
+      "updated_at": "2026-09-14T13:28:23.269Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "0a014573-d252-425e-a65a-0d2603abe871",
+      "display_name": "Heijan (Doğan Tarda)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.353Z",
+      "updated_at": "2026-09-14T13:28:23.353Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "6b4f9619-135e-43de-9163-34f8fdc1bd5c",
+      "display_name": "Hidra (Fatih Uslu)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.856Z",
+      "updated_at": "2026-09-14T13:28:22.856Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "15df5e29-0e33-416f-bd80-8b2f7ec73e00",
+      "display_name": "Hozan Dino (Yusuf Şahin)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.373Z",
+      "updated_at": "2026-09-14T13:28:23.373Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "8fa25bfe-a2a4-4467-acc4-65cd837728d9",
+      "display_name": "Hüseyin Turan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:24.325Z",
+      "updated_at": "2026-09-14T13:28:24.325Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "c1b2c861-9579-41ac-b893-6868a47f795e",
+      "display_name": "Kalan Müzik",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.812Z",
+      "updated_at": "2026-09-14T13:28:23.812Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "5a79d1fd-4472-42b4-be30-110360f8d7cc",
+      "display_name": "Kalben (Kalben Sağdıç)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.334Z",
+      "updated_at": "2026-09-14T13:28:23.334Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "e81df241-86ad-41d5-9b08-7dd7617367d9",
+      "display_name": "Kardeş Türküler",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.336Z",
+      "updated_at": "2026-09-14T13:28:24.336Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "a779dc3e-54a1-44ea-89d0-8e41dfbaee64",
+      "display_name": "Kerem Kabadayı",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:23.690Z",
+      "updated_at": "2026-09-14T13:28:23.690Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "712753c3-9698-42ac-a03d-90bd2ea4c2ac",
+      "display_name": "Kutsi (Ahmet Kutsi Karadoğan)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.992Z",
+      "updated_at": "2026-09-14T13:28:23.992Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "d825d260-d8a2-4b60-b58f-c47bb54f2679",
+      "display_name": "Küçük İskender",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.156Z",
+      "updated_at": "2026-09-14T13:28:24.156Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "8e41a611-850b-4412-a1ed-e1a251086890",
+      "display_name": "Kıvırcık Ali (Ali Özütemiz)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.796Z",
+      "updated_at": "2026-09-14T13:28:25.796Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "8f9fe826-8cb6-42c4-878c-4ee2a280bdcd",
+      "display_name": "Latif Doğan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.497Z",
+      "updated_at": "2026-09-14T13:28:24.497Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "356774e5-ea46-4f92-8b28-0a9f4b8a33a7",
+      "display_name": "Leman Sam",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.381Z",
+      "updated_at": "2026-09-14T13:28:23.381Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "c5c1c37d-3f7d-4b76-ab9a-bac578e80a45",
+      "display_name": "Levent Yüksel",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.415Z",
+      "updated_at": "2026-09-14T13:28:24.415Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "06667aba-46bc-4a76-91a1-7a02f9ee926a",
+      "display_name": "Mabel Matiz",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.559Z",
+      "updated_at": "2026-09-14T13:28:22.559Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "3f75047e-6326-474c-ba49-49b710d3f3f2",
+      "display_name": "Mahsun Kırmızıgül",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.592Z",
+      "updated_at": "2026-09-14T13:28:22.592Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "83fe1b0c-fdc3-4471-b35a-730cad9926d3",
+      "display_name": "Mehmet Erdem",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.195Z",
+      "updated_at": "2026-09-14T13:28:24.195Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "0eea8d92-0edf-4da3-a9e5-1e85a24ba233",
+      "display_name": "Melek Mosso",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.553Z",
+      "updated_at": "2026-09-14T13:28:25.553Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "b0776878-a1be-4010-95b3-7292f9fb26a5",
+      "display_name": "Mem Ararat",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Şeyh Sait Güzellemesi"
+      ],
+      "created_at": "2026-09-14T13:28:24.527Z",
+      "updated_at": "2026-09-14T13:28:24.527Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "f21d9872-814c-4cce-8bcc-e4618a420d64",
+      "display_name": "Mengene",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.555Z",
+      "updated_at": "2026-09-14T13:28:23.555Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "7e1ecaad-94cb-450c-8376-c0e03bf0ccf3",
+      "display_name": "Mikail Aslan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.666Z",
+      "updated_at": "2026-09-14T13:28:23.666Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "8b6916d8-cda4-4b65-8f02-06f2cce08d9d",
+      "display_name": "Mor ve Ötesi",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:22.926Z",
+      "updated_at": "2026-09-14T13:28:22.926Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "82a10794-e43d-4ec3-a25b-8f1b774fe8d3",
+      "display_name": "Moğollar",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.208Z",
+      "updated_at": "2026-09-14T13:28:24.208Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "46a29df1-0248-4c9b-8044-591a65439715",
+      "display_name": "Muhlis Berberoğlu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.462Z",
+      "updated_at": "2026-09-14T13:28:24.462Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "86d15d82-de99-45ea-9f40-b8e56c25151a",
+      "display_name": "Mustafa Özarslan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.755Z",
+      "updated_at": "2026-09-14T13:28:23.755Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "821389dc-f179-4df9-92c9-4edd4167ccea",
+      "display_name": "Nazan Öncel",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.683Z",
+      "updated_at": "2026-09-14T13:28:22.683Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "0661fb0c-f95b-45e4-97c8-666b0a8f4161",
+      "display_name": "Naşide Göktürk",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.788Z",
+      "updated_at": "2026-09-14T13:28:25.788Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "d3294b0f-28af-4807-a2ff-274517d1d53c",
+      "display_name": "Nez (Nezihe Kalkan)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.454Z",
+      "updated_at": "2026-09-14T13:28:23.454Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "175483f2-b407-4d53-8c95-534e9106e2a0",
+      "display_name": "Nihat Doğan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.278Z",
+      "updated_at": "2026-09-14T13:28:23.278Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "6e8889f5-44b3-43a3-862d-fa4e077c87f7",
+      "display_name": "Niran Ünsal",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.768Z",
+      "updated_at": "2026-09-14T13:28:25.768Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "56ee78a7-9d24-428a-a442-1a6c4df87ee5",
+      "display_name": "Niyazi Koyuncu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.481Z",
+      "updated_at": "2026-09-14T13:28:23.481Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "66d15ea7-47a0-4482-809b-40644715a211",
+      "display_name": "No1 (Can Bozok)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.520Z",
+      "updated_at": "2026-09-14T13:28:25.520Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "9b15f0de-617b-40da-86d7-655833479951",
+      "display_name": "Onur Akın",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:22.994Z",
+      "updated_at": "2026-09-14T13:28:22.994Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "89bf73cb-f718-41e5-b675-d42b59e09575",
+      "display_name": "Orhan Gencebay",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Akil İnsanlar Heyeti Üyesi"
+      ],
+      "created_at": "2026-09-14T13:28:24.033Z",
+      "updated_at": "2026-09-14T13:28:24.033Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "bdb901ee-c512-49c6-a7b9-b007b41f12a8",
+      "display_name": "Ozbi (Onur Dursun)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.535Z",
+      "updated_at": "2026-09-14T13:28:25.535Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "ee218558-70bb-43bd-a724-0707a1bca3ef",
+      "display_name": "Oğuz Aksaç",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.528Z",
+      "updated_at": "2026-09-14T13:28:23.528Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "ffbfefde-7cf4-4e47-b1fa-24d78e841473",
+      "display_name": "Paptircem (Sena Gül)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.948Z",
+      "updated_at": "2026-09-14T13:28:23.948Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "2d32f201-e71d-40e1-b315-a07398e007c0",
+      "display_name": "Pervin Chakar",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Saç Örme Hareketi Hk."
+      ],
+      "created_at": "2026-09-14T13:28:24.090Z",
+      "updated_at": "2026-09-14T13:28:24.090Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "50b9f00c-8625-4748-aab3-854cc8b91579",
+      "display_name": "Pınar Aydınlar",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Saç Örme Hareketi Hk."
+      ],
+      "created_at": "2026-09-14T13:28:24.082Z",
+      "updated_at": "2026-09-14T13:28:24.082Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "dff398e2-a979-4bfc-b78d-1ded04cb432c",
+      "display_name": "Redd",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.207Z",
+      "updated_at": "2026-09-14T13:28:23.207Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "3d0d8462-cf45-4e38-bca6-4e95a9aabedc",
+      "display_name": "Rojbin Kızıl",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Saç Örme Hareketi Hk.",
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.544Z",
+      "updated_at": "2026-09-14T13:28:24.544Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "1e55c087-fbad-40bd-8215-64225f5afeb0",
+      "display_name": "Rojda Şenses",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.365Z",
+      "updated_at": "2026-09-14T13:28:24.365Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "0da98ae9-4b71-40ca-9a2c-503ec6e829ab",
+      "display_name": "Sabahat Akkiraz",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.846Z",
+      "updated_at": "2026-09-14T13:28:23.846Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "659e7277-70ef-4279-a11a-ec2a8dea6efb",
+      "display_name": "Sagopa Kajmer (Yunus Özyavuz)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.324Z",
+      "updated_at": "2026-09-14T13:28:23.324Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "b1f38901-916b-4c59-8e0e-c0d8473416f2",
+      "display_name": "Saian (Necati Güney Erkurt)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Yılmaz Güney Paylaşımı",
+        "Tunceli İsyanı Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.561Z",
+      "updated_at": "2026-09-14T13:28:25.561Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "cb4fd730-25ca-492e-b231-10f1a042dba3",
+      "display_name": "Sansar Salvo",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:26.073Z",
+      "updated_at": "2026-09-14T13:28:26.073Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "90162ba8-8e8b-4ac7-865e-b84c8b9bb874",
+      "display_name": "Seda Sayan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.610Z",
+      "updated_at": "2026-09-14T13:28:22.610Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "aabac47f-41ab-4e2a-8299-4c0805f3a6e9",
+      "display_name": "Selda Bağcan",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı",
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.065Z",
+      "updated_at": "2026-09-14T13:28:23.065Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "02ce1a71-c258-4405-ae10-b63ab7422330",
+      "display_name": "Sertab Erener",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.573Z",
+      "updated_at": "2026-09-14T13:28:22.573Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "6c2fea49-9808-4bee-8b8e-237afe2cb7c9",
+      "display_name": "Servet Kocakaya",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.775Z",
+      "updated_at": "2026-09-14T13:28:25.775Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "a2e4330e-beae-43c3-acc5-feb748c663a6",
+      "display_name": "Sezen Aksu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.559Z",
+      "updated_at": "2026-09-14T13:28:24.559Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "def1d19f-4d45-4c39-bf0d-2f73a5786747",
+      "display_name": "Suavi (Mehmet Suavi Saygan)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:23.745Z",
+      "updated_at": "2026-09-14T13:28:23.745Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "4367dfde-597c-4ea1-bf98-a02da28c520f",
+      "display_name": "System of a Down",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:23.777Z",
+      "updated_at": "2026-09-14T13:28:23.777Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "cdb3e41d-b2d9-42f3-b346-41920b3cd896",
+      "display_name": "Sümer Ezgü",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.838Z",
+      "updated_at": "2026-09-14T13:28:25.838Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "545d195c-2746-4560-aff8-04e7f437541a",
+      "display_name": "Sıla ( Sıla Gençoğlu)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.822Z",
+      "updated_at": "2026-09-14T13:28:23.822Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "7fe40d2c-3342-4864-9b20-288a8bfbeeac",
+      "display_name": "Teoman (Teoman Yakupoğlu)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.550Z",
+      "updated_at": "2026-09-14T13:28:22.550Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "69b7ecdc-3073-47b8-b59b-f525b3615de3",
+      "display_name": "Tolga Sağ",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "DEM Parti Hk.",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:22.985Z",
+      "updated_at": "2026-09-14T13:28:22.985Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "6349cf95-f3b9-4d0c-853a-1d9ee3aee429",
+      "display_name": "Tülay Maciran",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.265Z",
+      "updated_at": "2026-09-14T13:28:24.265Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "a6a63349-f192-4940-9d03-4a5b04a00fd2",
+      "display_name": "Uzi (Utku Cihan Yalçınkaya)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.769Z",
+      "updated_at": "2026-09-14T13:28:22.769Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "eb928ffd-8fa7-40ed-8625-8b284704358a",
+      "display_name": "Xece",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Şeyh Sait Güzellemesi"
+      ],
+      "created_at": "2026-09-14T13:28:24.537Z",
+      "updated_at": "2026-09-14T13:28:24.537Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "fb00c314-698f-4a74-abb5-46ab17517e4f",
+      "display_name": "Xecê Herdem",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.373Z",
+      "updated_at": "2026-09-14T13:28:24.373Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "4157addc-a3f7-4107-84e0-e06b379876a1",
+      "display_name": "Yahya Babuz",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.915Z",
+      "updated_at": "2026-09-14T13:28:23.915Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 2
+    },
+    {
+      "id": "9284f6e0-1ded-4294-8616-65a16aa9739a",
+      "display_name": "Yasemin Göksu",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "DEM Parti Hk."
+      ],
+      "created_at": "2026-09-14T13:28:24.011Z",
+      "updated_at": "2026-09-14T13:28:24.011Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "ed8b39d4-c9e4-43c0-99cc-e7f147e627a4",
+      "display_name": "Yavuz Bingöl",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Ermeni Tehciri Hakkında"
+      ],
+      "created_at": "2026-09-14T13:28:22.637Z",
+      "updated_at": "2026-09-14T13:28:22.637Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "a3a7112b-3ac8-46ba-b533-8f72a13a4349",
+      "display_name": "Yaşar Kurt",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.234Z",
+      "updated_at": "2026-09-14T13:28:24.234Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "63b2f2fe-c50a-4e55-9d20-adbe931129e3",
+      "display_name": "Yıldız Tilbe",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Şeyh Sait Güzellemesi",
+        "Tunceli İsyanı Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.519Z",
+      "updated_at": "2026-09-14T13:28:22.519Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "48c5a344-27cc-4058-af80-3cfafd3e3c80",
+      "display_name": "Zuhal Olcay",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.185Z",
+      "updated_at": "2026-09-14T13:28:24.185Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "9c233d6b-c2eb-47a2-b326-1cf2389892d5",
+      "display_name": "Zülfü Livaneli",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Selahattin Demirtaş Hk.",
+        "Ahmet Türk İmzacısı"
+      ],
+      "created_at": "2026-09-14T13:28:23.723Z",
+      "updated_at": "2026-09-14T13:28:23.723Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "405ec865-49ee-46da-83ae-940f036de6ae",
+      "display_name": "Öykü Gürman",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.217Z",
+      "updated_at": "2026-09-14T13:28:24.217Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "78090fa7-f1c9-4b18-8612-392b18b49194",
+      "display_name": "Ümit Yılmaz",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.408Z",
+      "updated_at": "2026-09-14T13:28:24.408Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 1
+    },
+    {
+      "id": "11271fa9-1856-4a30-893f-7abfbd8dd26a",
+      "display_name": "İbrahim Tatlıses",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.495Z",
+      "updated_at": "2026-09-14T13:28:22.495Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "e04707fb-d106-4e64-978c-20527e2de2b6",
+      "display_name": "İlkay Akkaya",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Yılmaz Güney Paylaşımı",
+        "Sırrı Süreyya Önder Paylaşımı",
+        "DEM Parti Hk.",
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.698Z",
+      "updated_at": "2026-09-14T13:28:23.698Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "e2e4077c-55cd-44d5-a2d1-5390a833aab7",
+      "display_name": "Şahe Bedo (Şahin Güneş)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.358Z",
+      "updated_at": "2026-09-14T13:28:24.358Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "42fd4b58-6131-4bea-9b20-114ffece4115",
+      "display_name": "Şanışer (Sarp Palaur)",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.696Z",
+      "updated_at": "2026-09-14T13:28:25.696Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "26d02aff-d365-463a-b067-aa5bd52c916f",
+      "display_name": "Şebnem Ferah",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Sırrı Süreyya Önder Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:22.582Z",
+      "updated_at": "2026-09-14T13:28:22.582Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "be6f0a78-6adb-4ae3-b9a8-2a3f59298eed",
+      "display_name": "Şevval Sam",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.914Z",
+      "updated_at": "2026-09-14T13:28:25.914Z",
+      "summary": {
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "x": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    },
+    {
+      "id": "b556c0df-4a35-4125-87c9-8436af047287",
+      "display_name": "Şivan Perwer",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Tunceli İsyanı Paylaşımı",
+        "Ahmet Kaya Paylaşımı",
+        "Saç Örme Hareketi Hk.",
+        "Yılmaz Güney Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:23.520Z",
+      "updated_at": "2026-09-14T13:28:23.520Z",
+      "summary": {
+        "spotify": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "9e84761d-4a78-4672-92b4-19c7d80ed8af",
+      "display_name": "Şiyar Berwari",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Amedspor Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:24.512Z",
+      "updated_at": "2026-09-14T13:28:24.512Z",
+      "summary": {
+        "youtube": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 3
+    },
+    {
+      "id": "def5c89d-3b83-4b01-a654-d10fba987f3d",
+      "display_name": "Şükriye Tutkun",
+      "notes": null,
+      "tags": [
+        "Şarkıcı"
+      ],
+      "topics": [
+        "Ahmet Kaya Paylaşımı"
+      ],
+      "created_at": "2026-09-14T13:28:25.824Z",
+      "updated_at": "2026-09-14T13:28:25.824Z",
+      "summary": {
+        "x": {
+          "pending": 1
+        },
+        "instagram": {
+          "pending": 1
+        },
+        "youtube": {
+          "pending": 1
+        },
+        "spotify": {
+          "pending": 1
+        }
+      },
+      "account_count": 4
+    }
+  ]
+}
