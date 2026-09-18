@@ -102,7 +102,7 @@ GitHub repository'sinden indirdiğiniz ZIP'i çıkartın.
 
 Şu dosyayı bulun:
 
-boykot-skipper.js
+oelist_boykot_skipper.js
 
 
 WINDOWS
@@ -136,7 +136,7 @@ spicetify config-dir
 
 Terminal / PowerShell:
 
-spicetify config extensions boykot-skipper.js
+spicetify config extensions oelist_boykot_skipper.js
 
 Sonra:
 
@@ -159,7 +159,7 @@ Aynı sanatçı daha sonra tekrar gelirse tekrar kontrol edilir ve tekrar atlan�
 7. KENDİ SANATÇINI EKLE
 ==================================================
 
-boykot-skipper.js dosyasını bir metin editörüyle açın.
+oelist_boykot_skipper.js dosyasını bir metin editörüyle açın.
 
 Şu bölümü bulun:
 
@@ -206,7 +206,7 @@ güncellemesini beklemek gerekebilir.
 
 Extension'ı devre dışı bırakmak için:
 
-spicetify config extensions boykot-skipper.js-
+spicetify config extensions oelist_boykot_skipper.js-
 
 Sonra:
 
