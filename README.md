@@ -31,7 +31,7 @@ Resmi Spicetify sitesi:
 
 https://spicetify.app/
 
-Bu projede Spicetify'ın kendisi paketlenmemiştir. GitHub'dan bu repository'yi indirdiğinizde **önce Spicetify'ı resmi sitesindeki kurulum talimatlarıyla kurun**, ardından bu projedeki `boykot-skipper.js` dosyasını Spicetify Extensions klasörüne ekleyin.
+Bu projede Spicetify'ın kendisi paketlenmemiştir. GitHub'dan bu repository'yi indirdiğinizde **önce Spicetify'ı resmi sitesindeki kurulum talimatlarıyla kurun**, ardından bu projedeki `-skipper.js` dosyasını Spicetify Extensions klasörüne ekleyin.
 
 Spicetify'ın resmi dokümantasyonunda Windows, Linux ve macOS için kurulum yöntemleri güncel olarak listelenmektedir. citeturn0search2turn0search0
 
@@ -41,7 +41,7 @@ Spicetify'ın resmi dokümantasyonunda Windows, Linux ve macOS için kurulum yö
 - Spotify Desktop
 - Spicetify CLI
 - Windows, Linux veya macOS
-- Bu repository'deki `boykot-skipper.js`
+- Bu repository'deki `oelist_boykot_skipper.js`
 
 ### Önemli: Spotify sürümü
 
@@ -231,7 +231,7 @@ ZIP dosyasını açın.
 İçindeki:
 
 ```text
-boykot-skipper.js
+oelist_boykot_skipper.js
 ```
 
 dosyasını Spicetify Extensions klasörüne kopyalayın.
@@ -245,7 +245,7 @@ dosyasını Spicetify Extensions klasörüne kopyalayın.
 Örneğin:
 
 ```text
-C:\Users\KULLANICI\AppData\Roaming\spicetify\Extensions\boykot-skipper.js
+C:\Users\KULLANICI\AppData\Roaming\spicetify\Extensions\oelist_boykot_skipper.js
 ```
 
 ## Linux / macOS
@@ -257,7 +257,7 @@ C:\Users\KULLANICI\AppData\Roaming\spicetify\Extensions\boykot-skipper.js
 Örneğin:
 
 ```text
-~/.config/spicetify/Extensions/boykot-skipper.js
+~/.config/spicetify/Extensions/oelist_boykot_skipper.js
 ```
 
 Extensions klasörünün yerini bulmak için:
@@ -279,7 +279,7 @@ spicetify -c
 Terminal / PowerShell'de:
 
 ```bash
-spicetify config extensions boykot-skipper.js
+spicetify config extensions oelist_boykot_skipper.js
 ```
 
 Ardından:
@@ -296,7 +296,7 @@ Spicetify'ın resmi extension kurulumu da aynı mantıktadır: `.js` dosyasını
 
 # 6. Kendi Boykot Listenizi Eklemek
 
-`boykot-skipper.js` dosyasını açın.
+`oelist_boykot_skipper.js` dosyasını açın.
 
 Dosyanın üst tarafında şu bölümü bulun:
 
@@ -406,7 +406,7 @@ spicetify restore backup apply
 Extension'ı Spicetify ayarından kaldırmak için:
 
 ```bash
-spicetify config extensions boykot-skipper.js-
+spicetify config extensions oelist_boykot_skipper.js-
 ```
 
 Ardından:
@@ -415,7 +415,7 @@ Ardından:
 spicetify apply
 ```
 
-Daha sonra `boykot-skipper.js` dosyasını Extensions klasöründen silebilirsiniz.
+Daha sonra `oelist_boykot_skipper.js` dosyasını Extensions klasöründen silebilirsiniz.
 
 ---
 
@@ -470,7 +470,7 @@ spicetify config extensions
 Listede:
 
 ```text
-boykot-skipper.js
+oelist_boykot_skipper.js
 ```
 
 olduğunu kontrol edin.
@@ -478,7 +478,7 @@ olduğunu kontrol edin.
 Yoksa:
 
 ```bash
-spicetify config extensions boykot-skipper.js
+spicetify config extensions oelist_boykot_skipper.js
 spicetify apply
 ```
 
@@ -538,12 +538,12 @@ spicetify restore backup apply
 
 ```text
 Oelist-Spicetify-Boykot-Skipper/
-├── boykot-skipper.js
+├── oelist_boykot_skipper.js
 ├── oelist.json
 └── README.md
 ```
 
-### `boykot-skipper.js`
+### `oelist_boykot_skipper.js`
 
 Ana Spicetify extension'ıdır.
 
@@ -562,7 +562,7 @@ Kurulum, kullanım ve sorun giderme dokümantasyonudur.
 Repository oluşturduktan sonra bu dosyaları yükleyebilirsiniz:
 
 ```text
-boykot-skipper.js
+oelist_boykot_skipper.js
 oelist.json
 README.md
 ```
